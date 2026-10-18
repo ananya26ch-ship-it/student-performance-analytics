@@ -143,4 +143,4 @@ The project helped me apply programming fundamentals and data analysis technique
 
 11. GitHub Repository
 
-Repository URL: 
+Repository URL: https://github.com/ananya26ch-ship-it/student-performance-analytics
